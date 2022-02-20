@@ -44,3 +44,4 @@
 * Zahnpaste
 * Deo
 * Sonnencreme
+* ChamoisCreme
