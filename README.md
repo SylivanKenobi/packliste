@@ -12,11 +12,13 @@
 * Schuhe
 * Trikots 2 Paar
 * Windweste
+* Baselayer 2 Paar
 * Shorts 2 Paar
 * Armlinge
 * Beinlinge
 * Regenjacke
 * Regenhose
+* Handschuhe
 
 ## Off Bike
 * Wanderschuhe(z.B. [Adidas Terrex](https://www.adidas.com/us/terrex-swift-r2-gore-tex-hiking-shoes/CM7497.html))
