@@ -27,7 +27,7 @@
 * Pullover 1
 * DownJacke ??
 * Unterhosen 2-3 Paare
-* Rucksack
+* Rucksack([z.B. Apidura](https://www.apidura.com/shop/packable-backpack/))
 
 ### Elektro
 * Kopfhörer
