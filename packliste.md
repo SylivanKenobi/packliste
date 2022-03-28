@@ -2,26 +2,27 @@
 
 * Mini Tool
 * Pumpe
-* Lighweight Tubes 2x
+* Tubolito 2x
 * Chain QuickLink
 * Bidons 3
 * Garmin
 
 ### Kleider
 * Schuhe
-* Trikots
+* Trikots 2 Paar
 * Windweste
-* Shorts
+* Shorts 2 Paar
 * Armlinge
 * Beinlinge
 * Regenjacke
 * Regenhose
 
 ## Off Bike
-* Wanderschuhe
-* Hosen 1-2 Paar
+* Wanderschuhe(z.B. [Adidas Terrex](https://www.adidas.com/us/terrex-swift-r2-gore-tex-hiking-shoes/CM7497.html))
+* Hosen kurz 1 Paar
+* Trekkinghose transformierbar 1 Paar
 * T-Shirts 2-3 Paare
-* Socken 7 Paare
+* Socken 4 Paare
 * Pullover 1
 * DownJacke ??
 * Unterhosen 2-3 Paare
@@ -32,10 +33,11 @@
 * Powerbank
 * Usb-c
 * micro-usb
+* Garmin Watch cable
 * Licht vorne
 * Licht hinten
 * Kamera
-
+* Garmin Uhr
 
 ### Hygiene
 * Zahnbürste
