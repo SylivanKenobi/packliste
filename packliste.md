@@ -6,6 +6,7 @@
 * Chain QuickLink
 * Bidons 3
 * Garmin
+* Voille Straps
 
 ### Kleider
 * Schuhe
